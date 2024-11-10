@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\HW4\HW4\bin\Debug\HW4.exe.config
+C:\Users\Alex\source\repos\HW4\HW4\bin\Debug\HW4.exe
+C:\Users\Alex\source\repos\HW4\HW4\bin\Debug\HW4.pdb
+C:\Users\Alex\source\repos\HW4\HW4\obj\Debug\HW4.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\HW4\HW4\obj\Debug\HW4.Form1.resources
+C:\Users\Alex\source\repos\HW4\HW4\obj\Debug\HW4.Properties.Resources.resources
+C:\Users\Alex\source\repos\HW4\HW4\obj\Debug\HW4.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\HW4\HW4\obj\Debug\HW4.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\HW4\HW4\obj\Debug\HW4.exe
+C:\Users\Alex\source\repos\HW4\HW4\obj\Debug\HW4.pdb
