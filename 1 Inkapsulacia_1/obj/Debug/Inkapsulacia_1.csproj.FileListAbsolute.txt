@@ -1,0 +1,20 @@
+C:\Users\student\Documents\Visual Studio 2019\Projects\Samkharadze R\Inkapsulacia_1\bin\Debug\Inkapsulacia_1.exe.config
+C:\Users\student\Documents\Visual Studio 2019\Projects\Samkharadze R\Inkapsulacia_1\bin\Debug\Inkapsulacia_1.exe
+C:\Users\student\Documents\Visual Studio 2019\Projects\Samkharadze R\Inkapsulacia_1\bin\Debug\Inkapsulacia_1.pdb
+C:\Users\student\Documents\Visual Studio 2019\Projects\Samkharadze R\Inkapsulacia_1\obj\Debug\Inkapsulacia_1.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2019\Projects\Samkharadze R\Inkapsulacia_1\obj\Debug\Inkapsulacia_1.Form1.resources
+C:\Users\student\Documents\Visual Studio 2019\Projects\Samkharadze R\Inkapsulacia_1\obj\Debug\Inkapsulacia_1.Properties.Resources.resources
+C:\Users\student\Documents\Visual Studio 2019\Projects\Samkharadze R\Inkapsulacia_1\obj\Debug\Inkapsulacia_1.csproj.GenerateResource.cache
+C:\Users\student\Documents\Visual Studio 2019\Projects\Samkharadze R\Inkapsulacia_1\obj\Debug\Inkapsulacia_1.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2019\Projects\Samkharadze R\Inkapsulacia_1\obj\Debug\Inkapsulacia_1.exe
+C:\Users\student\Documents\Visual Studio 2019\Projects\Samkharadze R\Inkapsulacia_1\obj\Debug\Inkapsulacia_1.pdb
+C:\Users\Luka\Desktop\c#\1 Inkapsulacia_1\bin\Debug\Inkapsulacia_1.exe.config
+C:\Users\Luka\Desktop\c#\1 Inkapsulacia_1\bin\Debug\Inkapsulacia_1.exe
+C:\Users\Luka\Desktop\c#\1 Inkapsulacia_1\bin\Debug\Inkapsulacia_1.pdb
+C:\Users\Luka\Desktop\c#\1 Inkapsulacia_1\obj\Debug\Inkapsulacia_1.csproj.AssemblyReference.cache
+C:\Users\Luka\Desktop\c#\1 Inkapsulacia_1\obj\Debug\Inkapsulacia_1.Form1.resources
+C:\Users\Luka\Desktop\c#\1 Inkapsulacia_1\obj\Debug\Inkapsulacia_1.Properties.Resources.resources
+C:\Users\Luka\Desktop\c#\1 Inkapsulacia_1\obj\Debug\Inkapsulacia_1.csproj.GenerateResource.cache
+C:\Users\Luka\Desktop\c#\1 Inkapsulacia_1\obj\Debug\Inkapsulacia_1.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\c#\1 Inkapsulacia_1\obj\Debug\Inkapsulacia_1.exe
+C:\Users\Luka\Desktop\c#\1 Inkapsulacia_1\obj\Debug\Inkapsulacia_1.pdb
