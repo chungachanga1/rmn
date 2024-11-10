@@ -1,0 +1,20 @@
+C:\Users\Student\Documents\Visual Studio 2019\Project\ბიექტის_გადაცემა_აბრუნება_Generatori_1\bin\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.exe.config
+C:\Users\Student\Documents\Visual Studio 2019\Project\ბიექტის_გადაცემა_აბრუნება_Generatori_1\bin\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.exe
+C:\Users\Student\Documents\Visual Studio 2019\Project\ბიექტის_გადაცემა_აბრუნება_Generatori_1\bin\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.pdb
+C:\Users\Student\Documents\Visual Studio 2019\Project\ბიექტის_გადაცემა_აბრუნება_Generatori_1\obj\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2019\Project\ბიექტის_გადაცემა_აბრუნება_Generatori_1\obj\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2019\Project\ბიექტის_გადაცემა_აბრუნება_Generatori_1\obj\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2019\Project\ბიექტის_გადაცემა_აბრუნება_Generatori_1\obj\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.csproj.GenerateResource.cache
+C:\Users\Student\Documents\Visual Studio 2019\Project\ბიექტის_გადაცემა_აბრუნება_Generatori_1\obj\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2019\Project\ბიექტის_გადაცემა_აბრუნება_Generatori_1\obj\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.exe
+C:\Users\Student\Documents\Visual Studio 2019\Project\ბიექტის_გადაცემა_აბრუნება_Generatori_1\obj\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.pdb
+C:\Users\admin\Documents\6 - უნივერსიტეტები\1. ბტუ\ბაკალავრიატი\2024-2025\I სემესტრი\C#\პროგრამის კოდები\ბიექტის_გადაცემა_აბრუნება_Generatori_1\bin\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.exe.config
+C:\Users\admin\Documents\6 - უნივერსიტეტები\1. ბტუ\ბაკალავრიატი\2024-2025\I სემესტრი\C#\პროგრამის კოდები\ბიექტის_გადაცემა_აბრუნება_Generatori_1\bin\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.exe
+C:\Users\admin\Documents\6 - უნივერსიტეტები\1. ბტუ\ბაკალავრიატი\2024-2025\I სემესტრი\C#\პროგრამის კოდები\ბიექტის_გადაცემა_აბრუნება_Generatori_1\bin\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.pdb
+C:\Users\admin\Documents\6 - უნივერსიტეტები\1. ბტუ\ბაკალავრიატი\2024-2025\I სემესტრი\C#\პროგრამის კოდები\ბიექტის_გადაცემა_აბრუნება_Generatori_1\obj\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\6 - უნივერსიტეტები\1. ბტუ\ბაკალავრიატი\2024-2025\I სემესტრი\C#\პროგრამის კოდები\ბიექტის_გადაცემა_აბრუნება_Generatori_1\obj\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.Form1.resources
+C:\Users\admin\Documents\6 - უნივერსიტეტები\1. ბტუ\ბაკალავრიატი\2024-2025\I სემესტრი\C#\პროგრამის კოდები\ბიექტის_გადაცემა_აბრუნება_Generatori_1\obj\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.Properties.Resources.resources
+C:\Users\admin\Documents\6 - უნივერსიტეტები\1. ბტუ\ბაკალავრიატი\2024-2025\I სემესტრი\C#\პროგრამის კოდები\ბიექტის_გადაცემა_აბრუნება_Generatori_1\obj\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.csproj.GenerateResource.cache
+C:\Users\admin\Documents\6 - უნივერსიტეტები\1. ბტუ\ბაკალავრიატი\2024-2025\I სემესტრი\C#\პროგრამის კოდები\ბიექტის_გადაცემა_აბრუნება_Generatori_1\obj\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\6 - უნივერსიტეტები\1. ბტუ\ბაკალავრიატი\2024-2025\I სემესტრი\C#\პროგრამის კოდები\ბიექტის_გადაცემა_აბრუნება_Generatori_1\obj\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.exe
+C:\Users\admin\Documents\6 - უნივერსიტეტები\1. ბტუ\ბაკალავრიატი\2024-2025\I სემესტრი\C#\პროგრამის კოდები\ბიექტის_გადაცემა_აბრუნება_Generatori_1\obj\Debug\ბიექტის_გადაცემა_აბრუნება_Generatori_1.pdb

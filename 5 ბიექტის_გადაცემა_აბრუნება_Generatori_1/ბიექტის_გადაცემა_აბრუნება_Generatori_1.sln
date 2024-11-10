@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ბიექტის_გადაცემა_აბრუნება_Generatori_1", "ბიექტის_გადაცემა_აბრუნება_Generatori_1.csproj", "{525E576E-DAFC-49DF-8598-04D458C5B8F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{525E576E-DAFC-49DF-8598-04D458C5B8F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525E576E-DAFC-49DF-8598-04D458C5B8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525E576E-DAFC-49DF-8598-04D458C5B8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525E576E-DAFC-49DF-8598-04D458C5B8F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9C1172C-230D-44FA-BFE0-91A745FE7488}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\Visual Studio 2019\Project\Static_Tvisebebi_Indeqsatori_3\bin\Debug\Static_Tvisebebi_Indeqsatori_3.exe.config
+C:\Users\Student\Documents\Visual Studio 2019\Project\Static_Tvisebebi_Indeqsatori_3\bin\Debug\Static_Tvisebebi_Indeqsatori_3.exe
+C:\Users\Student\Documents\Visual Studio 2019\Project\Static_Tvisebebi_Indeqsatori_3\bin\Debug\Static_Tvisebebi_Indeqsatori_3.pdb
+C:\Users\Student\Documents\Visual Studio 2019\Project\Static_Tvisebebi_Indeqsatori_3\obj\Debug\Static_Tvisebebi_Indeqsatori_3.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2019\Project\Static_Tvisebebi_Indeqsatori_3\obj\Debug\Static_Tvisebebi_Indeqsatori_3.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2019\Project\Static_Tvisebebi_Indeqsatori_3\obj\Debug\Static_Tvisebebi_Indeqsatori_3.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2019\Project\Static_Tvisebebi_Indeqsatori_3\obj\Debug\Static_Tvisebebi_Indeqsatori_3.csproj.GenerateResource.cache
+C:\Users\Student\Documents\Visual Studio 2019\Project\Static_Tvisebebi_Indeqsatori_3\obj\Debug\Static_Tvisebebi_Indeqsatori_3.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2019\Project\Static_Tvisebebi_Indeqsatori_3\obj\Debug\Static_Tvisebebi_Indeqsatori_3.exe
+C:\Users\Student\Documents\Visual Studio 2019\Project\Static_Tvisebebi_Indeqsatori_3\obj\Debug\Static_Tvisebebi_Indeqsatori_3.pdb
