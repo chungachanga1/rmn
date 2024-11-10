@@ -1,0 +1,10 @@
+C:\Users\student\Documents\Visual Studio 2019\Projects\Konstructori_This_Sivrce_3\bin\Debug\Konstructori_This_Sivrce_3.exe.config
+C:\Users\student\Documents\Visual Studio 2019\Projects\Konstructori_This_Sivrce_3\bin\Debug\Konstructori_This_Sivrce_3.exe
+C:\Users\student\Documents\Visual Studio 2019\Projects\Konstructori_This_Sivrce_3\bin\Debug\Konstructori_This_Sivrce_3.pdb
+C:\Users\student\Documents\Visual Studio 2019\Projects\Konstructori_This_Sivrce_3\obj\Debug\Konstructori_This_Sivrce_3.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2019\Projects\Konstructori_This_Sivrce_3\obj\Debug\Konstructori_This_Sivrce_3.Form1.resources
+C:\Users\student\Documents\Visual Studio 2019\Projects\Konstructori_This_Sivrce_3\obj\Debug\Konstructori_This_Sivrce_3.Properties.Resources.resources
+C:\Users\student\Documents\Visual Studio 2019\Projects\Konstructori_This_Sivrce_3\obj\Debug\Konstructori_This_Sivrce_3.csproj.GenerateResource.cache
+C:\Users\student\Documents\Visual Studio 2019\Projects\Konstructori_This_Sivrce_3\obj\Debug\Konstructori_This_Sivrce_3.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2019\Projects\Konstructori_This_Sivrce_3\obj\Debug\Konstructori_This_Sivrce_3.exe
+C:\Users\student\Documents\Visual Studio 2019\Projects\Konstructori_This_Sivrce_3\obj\Debug\Konstructori_This_Sivrce_3.pdb

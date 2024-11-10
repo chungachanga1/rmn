@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\Visual Studio 2019\Project\Memkvidreobitoba_1\bin\Debug\Memkvidreobitoba_1.exe.config
+C:\Users\Student\Documents\Visual Studio 2019\Project\Memkvidreobitoba_1\bin\Debug\Memkvidreobitoba_1.exe
+C:\Users\Student\Documents\Visual Studio 2019\Project\Memkvidreobitoba_1\bin\Debug\Memkvidreobitoba_1.pdb
+C:\Users\Student\Documents\Visual Studio 2019\Project\Memkvidreobitoba_1\obj\Debug\Memkvidreobitoba_1.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2019\Project\Memkvidreobitoba_1\obj\Debug\Memkvidreobitoba_1.Form1.resources
+C:\Users\Student\Documents\Visual Studio 2019\Project\Memkvidreobitoba_1\obj\Debug\Memkvidreobitoba_1.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2019\Project\Memkvidreobitoba_1\obj\Debug\Memkvidreobitoba_1.csproj.GenerateResource.cache
+C:\Users\Student\Documents\Visual Studio 2019\Project\Memkvidreobitoba_1\obj\Debug\Memkvidreobitoba_1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2019\Project\Memkvidreobitoba_1\obj\Debug\Memkvidreobitoba_1.exe
+C:\Users\Student\Documents\Visual Studio 2019\Project\Memkvidreobitoba_1\obj\Debug\Memkvidreobitoba_1.pdb

@@ -1,0 +1,10 @@
+C:\Users\student\Documents\Visual Studio 2019\Projects\Polimorfizmi_1\obj\Debug\Polimorfizmi_1.csprojAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2019\Projects\Polimorfizmi_1\obj\Debug\Polimorfizmi_1.Form1.resources
+C:\Users\student\Documents\Visual Studio 2019\Projects\Polimorfizmi_1\obj\Debug\Polimorfizmi_1.Properties.Resources.resources
+C:\Users\student\Documents\Visual Studio 2019\Projects\Polimorfizmi_1\obj\Debug\Polimorfizmi_1.csproj.GenerateResource.cache
+C:\Users\student\Documents\Visual Studio 2019\Projects\Polimorfizmi_1\obj\Debug\Polimorfizmi_1.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2019\Projects\Polimorfizmi_1\bin\Debug\Polimorfizmi_1.exe.config
+C:\Users\student\Documents\Visual Studio 2019\Projects\Polimorfizmi_1\bin\Debug\Polimorfizmi_1.exe
+C:\Users\student\Documents\Visual Studio 2019\Projects\Polimorfizmi_1\bin\Debug\Polimorfizmi_1.pdb
+C:\Users\student\Documents\Visual Studio 2019\Projects\Polimorfizmi_1\obj\Debug\Polimorfizmi_1.exe
+C:\Users\student\Documents\Visual Studio 2019\Projects\Polimorfizmi_1\obj\Debug\Polimorfizmi_1.pdb
